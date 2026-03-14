@@ -41,13 +41,13 @@
         color: #023047;
 }
 
-section{
+/* section{
     background: rgba(0, 128, 128, 0.751);
     height: 798px;
     display: flex;
     align-items: center;
     justify-content: center;
-}
+} */
 
 .showcase{
     width: 928px;
